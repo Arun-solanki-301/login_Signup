@@ -1,5 +1,6 @@
 import React from "react";
 import { TextInput, TouchableOpacity, Text, View, StyleSheet, ActivityIndicator } from 'react-native';
+// import { validPassword  , passwordLengthValidation , emailLengthValidation , emailOtherValidation } from '../formFunctions/LoginFunction'
 
 function SignUp({navigation}){
     return(
